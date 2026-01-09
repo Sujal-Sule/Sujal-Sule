@@ -18,8 +18,8 @@
 ### 🔝 Top Contributed Repo
 
 ### **AAROGYA.AI — Team_CodeZilla**
-A full-stack health-tech platform aimed at improving community health outcomes through (describe core purpose briefly).  
-**My contribution:** Collaborated in feature development, integrated backend APIs, and helped deploy core modules.  
+A collaborative health-tech platform focused on improving healthcare accessibility using AI-driven insights and a full-stack web system.  
+**My contribution:** Worked on feature development, backend integration, and collaborative problem-solving within the team.  
 🔗 https://github.com/Sujal-Sule/Team_CodeZilla_AAROGYA.AI
 
 
