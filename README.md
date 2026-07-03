@@ -32,7 +32,7 @@ const sujal = {
     location: "India 🇮🇳",
     currentFocus: "MERN & hackathon-grade systems",
     collaboration: "Web apps & problem-solving teams",
-    learning: ["React (deep)", "Backend optimization", "DSA"],
+    learning: ["React (deep)", "Backend optimization", "AI"],
     askMeAbout: ["JavaScript", "MERN", "FastAPI"],
     needHelpWith: ["System design", "Scalable backends"],
     funFact: "Imperfect projects > perfect tutorials 🔨"
