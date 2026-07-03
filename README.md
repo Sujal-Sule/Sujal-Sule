@@ -1,30 +1,131 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Full-stack MERN projects and hackathon-grade systems with real-world use cases.<br><br>👯 I’m looking to collaborate on  <br>Web apps, hackathon projects, and problem-solving focused teams.<br><br>🤝 I’m looking for help with  <br>System design thinking, scalable backend architecture, and code reviews.<br><br>🌱 I’m currently learning  <br>React deeply, backend optimization, and data structures for interviews.<br><br>💬 Ask me about  <br>JavaScript, MERN basics, FastAPI, hackathons, or project structuring.<br><br>⚡ Fun fact  <br>I prefer building imperfect projects over watching perfect tutorials.<br>
+<!-- Animated Gradient Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Sujal%20Sule&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20•%20Hackathon%20Builder%20•%20Problem%20Solver&descSize=16&descAlignY=55" />
 
+<!-- Animated Typing (WORKING demolab URL) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sujal+Sule+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Hackathon+Enthusiast+%F0%9F%9A%80;Building+Real-World+Solutions+%E2%9A%A1" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujal_sule31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-sule-51817b290) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SujalSule_31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalsule31@gmail.com) [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fsujalsule.in%2F
-)](https://sujalsule.in) 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujal-Sule&label=Profile%20Views&color=a277ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Sujal-Sule?label=Followers&style=for-the-badge&color=a277ff&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-61ffca?style=for-the-badge&logo=handshake" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sujal-Sule&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sujal-Sule&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Sule&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💫 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+```javascript
+const sujal = {
+    location: "India 🇮🇳",
+    currentFocus: "MERN & hackathon-grade systems",
+    collaboration: "Web apps & problem-solving teams",
+    learning: ["React (deep)", "Backend optimization", "DSA"],
+    askMeAbout: ["JavaScript", "MERN", "FastAPI"],
+    needHelpWith: ["System design", "Scalable backends"],
+    funFact: "Imperfect projects > perfect tutorials 🔨"
+};
+```
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sujalsule.in-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://sujalsule.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-sule-51817b290)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SujalSule_31)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sujal_sule31)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalsule31@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**👨‍💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=dark" />
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" />
+
+**⚙️ Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite&theme=dark" />
+
+**🛠️ Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,opencv,npm&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sujal-Sule&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Sule&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sujal-Sule&theme=midnight-purple&hide_border=true&background=0d1117" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sujal-Sule&bg_color=0d1117&color=a277ff&line=a277ff&point=61ffca&area=true&area_color=a277ff&hide_border=true" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sujal-Sule&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujal-Sule&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" />
+</div>
 
-### **AAROGYA.AI — Team_CodeZilla**
-A collaborative health-tech platform focused on improving healthcare accessibility using AI-driven insights and a full-stack web system.  
-**My contribution:** Worked on feature development, backend integration, and collaborative problem-solving within the team.  
-🔗 https://github.com/Sujal-Sule/Team_CodeZilla_AAROGYA.AI
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🔝 Featured Project
 
----
-[![](https://visitcount.itsvg.in/api?id=Sujal-Sule&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏥 AAROGYA.AI — Team_CodeZilla
+
+*A collaborative health-tech platform improving healthcare accessibility using AI-driven insights and a full-stack web system.*
+
+**My contribution:** Feature development, backend integration, and collaborative problem-solving.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-AAROGYA.AI-a277ff?style=for-the-badge&logo=github)](https://github.com/Sujal-Sule/Team_CodeZilla_AAROGYA.AI)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💭 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<!-- Contribution Snake (requires the workflow, see note below) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-Sule/Sujal-Sule/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Sujal-Sule/Sujal-Sule/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" />
