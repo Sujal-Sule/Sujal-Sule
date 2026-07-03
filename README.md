@@ -114,17 +114,6 @@ const sujal = {
 
 ## 🔝 Featured Projects
 
-<div>
-
-<a href="https://github.com/Sujal-Sule/SkillSwap-Minor-Project">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Sujal-Sule&repo=SkillSwap-Minor-Project&theme=transparent&title_color=FF9D00&icon_color=FFD700&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/Sujal-Sule/SafePulse">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Sujal-Sule&repo=SafePulse&theme=transparent&title_color=FF9D00&icon_color=FFD700&text_color=c9d1d9&hide_border=true" />
-</a>
-
-<br/><br/>
-
 ### 🔄 SkillSwap
 *A peer-to-peer skill exchange platform where users can teach what they know and learn what they don't.*
 
