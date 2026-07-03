@@ -41,13 +41,12 @@ const sujal = {
 
 <br clear="right"/>
 
-<!-- Typograssy: Fully URL-encoded dark mode theme -->
+<!-- Typograssy: Exact dark mode match using proper API parameters -->
 <div align="center">
-  <img src="https://typograssy.deno.dev/api?text=HI%20THERE!&color0=%23161b22&color1=%230e4429&color2=%23006d3a&color3=%2326a641&color4=%2339d353&bg=none&frame=none&speed=100" />
+  <img src="https://typograssy.deno.dev/api?text=HI%20THERE!&l0=161b22&l1=0e4429&l2=006d3a&l3=26a641&l4=39d353&bg=none&frame=none&speed=100" />
 </div>
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,32,5" />
-
 ## 🌐 Connect With Me
 
 <div align="center">
