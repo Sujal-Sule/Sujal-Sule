@@ -50,7 +50,7 @@ const sujal = {
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div>
 
 **👨‍💻 Languages**
 
@@ -97,21 +97,33 @@ const sujal = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔝 Featured Project
+## 🔝 Featured Projects
 
 <div align="center">
 
-### 🏥 AAROGYA.AI — Team_CodeZilla
+<a href="https://github.com/Sujal-Sule/SkillSwap-Minor-Project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sujal-Sule&repo=SkillSwap-Minor-Project&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/Sujal-Sule/SafePulse">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sujal-Sule&repo=SafePulse&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+</a>
 
-*A collaborative health-tech platform improving healthcare accessibility using AI-driven insights and a full-stack web system.*
+<br/><br/>
 
-**My contribution:** Feature development, backend integration, and collaborative problem-solving.
+### 🔄 SkillSwap
+*A peer-to-peer skill exchange platform where users can teach what they know and learn what they don't.*
 
-[![Repo](https://img.shields.io/badge/View%20Repository-AAROGYA.AI-a277ff?style=for-the-badge&logo=github)](https://github.com/Sujal-Sule/Team_CodeZilla_AAROGYA.AI)
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-skillswap.sujalsule.in-61ffca?style=for-the-badge&logoColor=black)](https://skillswap.sujalsule.in)
+[![Repo](https://img.shields.io/badge/View%20Repository-SkillSwap-a277ff?style=for-the-badge&logo=github)](https://github.com/Sujal-Sule/SkillSwap-Minor-Project)
+
+### 🚨 SafePulse
+*A safety-focused application delivering real-time alerts and emergency response features.*
+
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-safepulse.teamcodezilla.in-61ffca?style=for-the-badge&logoColor=black)](https://safepulse.teamcodezilla.in)
+[![Repo](https://img.shields.io/badge/View%20Repository-SafePulse-a277ff?style=for-the-badge&logo=github)](https://github.com/Sujal-Sule/SafePulse)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💭 Dev Quote
 
