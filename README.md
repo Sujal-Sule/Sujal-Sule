@@ -1,18 +1,27 @@
-<!-- Animated Gradient Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Sujal%20Sule&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20•%20Hackathon%20Builder%20•%20Problem%20Solver&descSize=16&descAlignY=55" />
+<!-- Venom Header (rare capsule-render type) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Sujal%20Sule&fontColor=FF9D00&fontSize=50&animation=twinkling&stroke=FFD700&strokeWidth=1" />
 
-<!-- Animated Typing (WORKING demolab URL) -->
+<!-- Luminance SVG Banner (Properly scaled down text) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sujal+Sule+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Hackathon+Enthusiast+%F0%9F%9A%80;Building+Real-World+Solutions+%E2%9A%A1" alt="Typing SVG" />
+  <img width="450" src="https://svg-banners.vercel.app/api?type=luminance&text1=Full-Stack%20MERN%20Developer&width=750&height=130" />
 </div>
 
+
+<!-- Typing intro (retinted to ember) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujal-Sule&label=Profile%20Views&color=a277ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Sujal-Sule?label=Followers&style=for-the-badge&color=a277ff&logo=github" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-61ffca?style=for-the-badge&logo=handshake" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=FF9D00&center=true&vCenter=true&width=600&lines=Hackathon+Builder+%F0%9F%9A%80;Shipping+Imperfect+%3E+Watching+Perfect+%F0%9F%94%A8;Building+Real-World+Systems+%E2%9A%A1" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujal-Sule&label=Profile%20Views&color=ff9d00&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Sujal-Sule?label=Followers&style=for-the-badge&color=ff9d00&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-FFD700?style=for-the-badge&logo=handshake&logoColor=black" />
+</div>
+
+<!-- Slim gradient divider (capsule-render rect, not the overused rainbow gif) -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,32,5" />
 
 ## 💫 About Me
 
@@ -32,7 +41,12 @@ const sujal = {
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Typograssy: Fully URL-encoded dark mode theme -->
+<div align="center">
+  <img src="https://typograssy.deno.dev/api?text=HI%20THERE!&color0=%23161b22&color1=%230e4429&color2=%23006d3a&color3=%2326a641&color4=%2339d353&bg=none&frame=none&speed=100" />
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,32,5" />
 
 ## 🌐 Connect With Me
 
@@ -46,7 +60,7 @@ const sujal = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,32,5" />
 
 ## 💻 Tech Stack
 
@@ -70,38 +84,43 @@ const sujal = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,32,5" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Sujal-Sule&include_all_commits=true&theme=transparent" />
-  <img src="https://streak-stats.demolab.com?user=Sujal-Sule&theme=midnight-purple&hide_border=true&background=0d1117" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sujal-Sule&include_all_commits=true&theme=transparent&title_color=FF9D00&icon_color=FFD700&text_color=c9d1d9&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sujal-Sule&hide_border=true&background=0a0a0a&ring=FF9D00&fire=FFD700&currStreakLabel=FF9D00&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+</div>
+
+<!-- Profile Summary Cards, cyberpunk "2077" theme (underrated service) -->
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujal-Sule&theme=2077" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sujal-Sule&theme=2077&utcOffset=5.5" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujal-Sule&theme=2077" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sujal-Sule&bg_color=0d1117&color=a277ff&line=a277ff&point=61ffca&area=true&area_color=a277ff&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sujal-Sule&bg_color=0a0a0a&color=ff9d00&line=ff9d00&point=ffd700&area=true&area_color=ff9d00&hide_border=true" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,32,5" />
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy-alpha.vercel.app/?username=Sujal-Sule&theme=discord&no-frame=true&no-bg=true&margin-w=20&column=4&row=2" width="100%" />
+<img src="https://github-profile-trophy-alpha.vercel.app/?username=Sujal-Sule&theme=monokai&no-frame=true&no-bg=true&margin-w=20&column=4&row=2" width="100%" />
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,32,5" />
 
 ## 🔝 Featured Projects
 
 <div>
 
 <a href="https://github.com/Sujal-Sule/SkillSwap-Minor-Project">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Sujal-Sule&repo=SkillSwap-Minor-Project&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Sujal-Sule&repo=SkillSwap-Minor-Project&theme=transparent&title_color=FF9D00&icon_color=FFD700&text_color=c9d1d9&hide_border=true" />
 </a>
 <a href="https://github.com/Sujal-Sule/SafePulse">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Sujal-Sule&repo=SafePulse&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Sujal-Sule&repo=SafePulse&theme=transparent&title_color=FF9D00&icon_color=FFD700&text_color=c9d1d9&hide_border=true" />
 </a>
 
 <br/><br/>
@@ -109,31 +128,32 @@ const sujal = {
 ### 🔄 SkillSwap
 *A peer-to-peer skill exchange platform where users can teach what they know and learn what they don't.*
 
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-skillswap.sujalsule.in-61ffca?style=for-the-badge&logoColor=black)](https://skillswap.sujalsule.in)
-[![Repo](https://img.shields.io/badge/View%20Repository-SkillSwap-a277ff?style=for-the-badge&logo=github)](https://github.com/Sujal-Sule/SkillSwap-Minor-Project)
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-skillswap.sujalsule.in-FFD700?style=for-the-badge&logoColor=black)](https://skillswap.sujalsule.in)
+[![Repo](https://img.shields.io/badge/View%20Repository-SkillSwap-FF9D00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sujal-Sule/SkillSwap-Minor-Project)
 
 ### 🚨 SafePulse
 *A safety-focused application delivering real-time alerts and emergency response features.*
 
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-safepulse.teamcodezilla.in-61ffca?style=for-the-badge&logoColor=black)](https://safepulse.teamcodezilla.in)
-[![Repo](https://img.shields.io/badge/View%20Repository-SafePulse-a277ff?style=for-the-badge&logo=github)](https://github.com/Sujal-Sule/SafePulse)
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-safepulse.teamcodezilla.in-FFD700?style=for-the-badge&logoColor=black)](https://safepulse.teamcodezilla.in)
+[![Repo](https://img.shields.io/badge/View%20Repository-SafePulse-FF9D00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sujal-Sule/SafePulse)
 
 </div>
 
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,32,5" />
 
 ## 💭 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
 </div>
 
-<!-- Contribution Snake (requires the workflow, see note below) -->
+<!-- Pac-Man Contribution Graph (rare alternative to the snake everyone uses) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-Sule/Sujal-Sule/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Sujal-Sule/Sujal-Sule/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal-Sule/Sujal-Sule/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Sujal-Sule/Sujal-Sule/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
 
-<!-- Animated Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" />
+<!-- Venom Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&section=footer" />
