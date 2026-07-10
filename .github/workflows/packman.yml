@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: abzcoding/pacman-contribution-graph@main
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Sujal-Sule
       - name: Create build directory
