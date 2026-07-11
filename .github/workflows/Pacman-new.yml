@@ -9,9 +9,36 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - id: gen1
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Sujal-Sule
+
+      - if: steps.gen1.outcome == 'failure'
+        run: sleep 15
+
+      - id: gen2
+        if: steps.gen1.outcome == 'failure'
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Sujal-Sule
+
+      - if: steps.gen1.outcome == 'failure' && steps.gen2.outcome == 'failure'
+        run: sleep 30
+
+      - id: gen3
+        if: steps.gen1.outcome == 'failure' && steps.gen2.outcome == 'failure'
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Sujal-Sule
+
+      - run: |
+          if [ ! -d "dist" ]; then
+            exit 1
+          fi
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
