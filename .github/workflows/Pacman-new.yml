@@ -1,7 +1,7 @@
 name: Generate Pacman
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "37 5 * * *"
   workflow_dispatch:
 jobs:
   generate:
